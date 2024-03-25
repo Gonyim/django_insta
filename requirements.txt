@@ -1,2 +1,8 @@
 django
 djangorestframework
+
+asgiref
+pip
+setuptools
+sqlparse
+tzdata
